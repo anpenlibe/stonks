@@ -1,0 +1,5 @@
+model,total_return_pct,annualised_return_pct,sharpe_ratio,max_drawdown_pct,n_trades,completed_round_trips,win_rate_pct,final_equity
+ARIMA,0.0,0.0,,0.0,0,0,,100000.0
+MLP,-8.4717,-3.8916,-0.3511,-29.4338,1,0,,91528.32
+LSTM,0.0,0.0,,0.0,0,0,,100000.0
+BuyAndHold,3.6213,1.6079,-0.0892,-29.4338,1,0,,103621.32

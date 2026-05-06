@@ -1,0 +1,9 @@
+param,value,note
+mu,0.0008770111146461132,constant mean of log returns
+omega,1.3819096437274378e-05,long-run variance intercept (back-transformed from rescaled fit)
+alpha,0.07934073504116336,ARCH coefficient (impact of last innovation²)
+beta,0.8733514766525026,GARCH coefficient (persistence of last variance)
+persistence,0.9526922116936659,alpha + beta; >0.97 ≈ IGARCH territory
+loglik,-3617.4734105954653,log-likelihood at MLE (on rescaled returns)
+aic,7242.946821190931,AIC (on rescaled returns)
+bic,7265.159967613332,BIC (on rescaled returns)

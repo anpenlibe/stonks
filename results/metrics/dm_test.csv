@@ -1,0 +1,2 @@
+model_a,model_b,ticker,loss,h,n,mean_loss_diff,var_loss_diff,dm_stat,p_value,verdict
+ARIMA,LSTM,RELIANCE,squared_error,1,562,2.578818058637045e-07,3.8889794684537644e-11,0.9803271610031443,0.32692465166320417,fail to reject H₀ — ARIMA and LSTM have equal forecast accuracy

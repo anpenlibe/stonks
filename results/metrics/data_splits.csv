@@ -1,0 +1,12 @@
+split,start_date,end_date,n_rows
+train,2016-04-12,2022-12-30,1662
+val,2023-01-02,2023-12-29,245
+test,2024-01-01,2026-04-10,562
+regime_calm,2016-07-08,2026-04-10,2343
+regime_turbulent,2020-03-20,2020-06-30,67
+train_calm,2016-07-08,2022-12-30,1536
+train_turbulent,2020-03-20,2020-06-30,67
+val_calm,2023-01-02,2023-12-29,245
+val_turbulent,,,0
+test_calm,2024-01-01,2026-04-10,562
+test_turbulent,,,0
