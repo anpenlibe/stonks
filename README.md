@@ -1,6 +1,6 @@
 # Stonks
 
-A playground for time-series modelling on Indian equities. The plan: pull a decade of price history for a diversified basket of NSE tickers, clean and align it, then use it as the substrate for a full pipeline of classical time-series and neural-network experiments. The project doubles as the submission for two university courses — one on regression / time-series, one on AI/ML — with course-specific notebooks under `rtsm/` and `aiml/`.
+A playground for time-series modelling on Indian equities. The plan: pull a decade of price history for a diversified basket of NSE tickers, clean and align it, then use it as the substrate for a full pipeline of classical time-series and neural-network experiments. The project doubles as the submission for two university courses: one on regression / time-series, one on AI/ML, with course-specific notebooks under `rtsm/` and `aiml/`.
 
 ## Progress
 
